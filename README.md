@@ -4,3 +4,4 @@ aaa
 bbb
 ccc
 日本語
+１２３
