@@ -3,3 +3,4 @@ public test
 aaa
 bbb
 ccc
+日本語
